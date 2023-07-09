@@ -1,0 +1,35 @@
+ 
+ .head-section{
+    
+    
+ }
+ .head-item{
+    text-align: right;
+    /* padding: 0px 230px 0px 0px; */
+ }
+ .head-header{
+    font-size: 64px;
+    font-weight: 700;
+ }
+ .head-details{
+    color: var(--dark-02, #444343);
+text-align: right;
+padding: 20px 0px 30px 950px ;
+font-size: 25px;
+
+font-weight: 400;
+line-height: 26px;
+ }
+ .button{
+    width: 160px;
+    height: 64px;
+border-radius: 5px;
+background: #F15B22;
+font-size: 20px;
+color: white;
+}
+.head-img{
+    background-image: url(images/banner/banner1.png);
+background-repeat: no-repeat;
+ }
+
